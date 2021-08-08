@@ -6,7 +6,7 @@
 - Implemented POM model and OOPs concepts 
 - Scenarios are created in Feature file
 - Reusable functions are created for each Web actions
-- Detailed logger statements on step definitions has been Implemented
+- Detailed logger statements on step definitions have been Implemented
 
 *********************** Below are the improvements that could be considered***********
 
